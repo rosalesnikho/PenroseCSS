@@ -1,7 +1,7 @@
 # [PenroseCSS](http://getskeleton.com)
 PenroseCSS is a simple, responsive boilerplate to kickstart any responsive project.
 
-Check out <http://getskeleton.com> for documentation and details.
+
 
 ## Getting started
 
@@ -51,4 +51,4 @@ All parts of PenroseCSS are free to use and abuse under the [open-source MIT lic
 
 ## Acknowledgement
 
-PenroseCSS uses Skeleton as a starting point, since the project the was no longer being updated by the original author. Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+PenroseCSS uses Skeleton as a starting point, since the project was no longer being updated by the original author. Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
