@@ -1,0 +1,22 @@
+/* Global Styles */
+body {
+    color: #333;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    color: #333;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+/* Header Area */
+
+/* Grid Area */
+.pen-grid {
+    background-color: #333;
+    border-radius: .3em;
+    padding: .3em;
+    margin-top: .3em;
+    border: 1px solid #222222;
+    color: #fdbc00;
+}
