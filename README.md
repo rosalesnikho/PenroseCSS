@@ -26,12 +26,14 @@ PenroseCSS/
 
 ```
 
-### Why it's awesome
+### Why Use PenroseCSS?
 
-PenroseCSS is lightweight and simple. It styles only raw HTML elements (with a few exceptions) and provides a responsive grid. Nothing more.
+PenroseCSS is lightweight. It styles only raw HTML elements (with a few exceptions) and provides a responsive grid.
 - Around 400 lines of CSS unminified and with comments
 - It's a starting point, not a UI framework
 - No compiling or installing...just vanilla CSS
+- Styles most often used HTML Elements for scaffolding or prototyping
+- UI Element Examples & Easy Code Documentation
 
 
 ## Browser support
@@ -52,4 +54,4 @@ All parts of PenroseCSS are free to use and abuse under the [open-source MIT lic
 
 ## Acknowledgement
 
-PenroseCSS uses Skeleton as a starting point, since the project was no longer being updated by the original author. Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+PenroseCSS was inspired by Skeleton CSS by [Dave Gamache](https://twitter.com/dhg).
