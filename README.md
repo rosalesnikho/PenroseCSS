@@ -19,7 +19,8 @@ PenroseCSS/
 ├── index.html
 ├── css/
 │   ├── normalize.min.css
-│   └── penrose.css
+    ├── penrose.css
+│   └── style.css
 └── images/
     └── favicon.ico
 
