@@ -1,4 +1,4 @@
-# [PenroseCSS](http://getskeleton.com)
+# [PenroseCSS](https://github.com/rosalesnikho/PenroseCSS)
 PenroseCSS is a simple, responsive boilerplate to kickstart any responsive project.
 
 
