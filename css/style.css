@@ -12,12 +12,16 @@ h1,h2,h3,h4,h5 {
 
 /* Landing Area*/
 .landing-wrapper {
-    height: 60vh;
+    height: 70vh;
 }
+
+.landing-image-wrapper{
+    text-align: center;
+    display: block;
+}
+
 .landing-image-wrapper img{
-    display: flex;
-    align-items: center;
-    width: 150px;
+    width: 250px;
     height: auto;
 }
 
@@ -25,8 +29,17 @@ h1,h2,h3,h4,h5 {
     color: #fdbc00;
 }
 
+.penrose-highlight {
+    padding: .3em;
+    border-radius: .1em;
+    background-color: #333333;
+    color: #fdbc00;
+    font-weight: bold;
+}
 
-/* Cards Are */
+
+
+/* Cards Area */
 .cards-wrapper {
     display: flex;
     justify-content: space-between;
