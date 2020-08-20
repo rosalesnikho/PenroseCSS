@@ -15,7 +15,9 @@ h1,h2,h3,h4,h5 {
 .landing-wrapper {
     height: 60vh;
 }
-.landing-image img{
+.landing-image-wrapper img{
+    display: flex;
+    align-items: center;
     width: 150px;
     height: auto;
 }
