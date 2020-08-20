@@ -11,7 +11,30 @@ h1,h2,h3,h4,h5 {
 
 /* Header Area */
 
+/* Landing Area*/
+.landing-wrapper {
+    height: 60vh;
+}
+.landing-image img{
+    width: 150px;
+    height: auto;
+}
+
+.text-dot {
+    color: #fdbc00;
+}
+
+
+/* Cards Are */
+.cards-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Grid Area */
+.landing-wrapper {
+}
+
 .pen-grid {
     background-color: #333;
     border-radius: .3em;
