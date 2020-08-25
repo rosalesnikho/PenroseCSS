@@ -54,4 +54,4 @@ All parts of PenroseCSS are free to use and abuse under the [open-source MIT lic
 
 ## Acknowledgement
 
-PenroseCSS was inspired by Skeleton CSS by [Dave Gamache](https://twitter.com/dhg).
+PenroseCSS was inspired by [Dave Gamache's](https://twitter.com/dhg) Skeleton CSS.
