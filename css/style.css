@@ -57,3 +57,10 @@ h1,h2,h3,h4,h5 {
     border: 1px solid #222222;
     color: #fdbc00;
 }
+
+/* Form Area */
+.login-form {
+    border-radius: .3em;
+    padding: 1em;
+    border: 1px solid lightgray;
+}
