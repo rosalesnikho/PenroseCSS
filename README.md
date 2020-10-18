@@ -1,5 +1,5 @@
 # [PenroseCSS](https://github.com/rosalesnikho/PenroseCSS)
-PenroseCSS is a simple, responsive boilerplate to kickstart any responsive project.
+PenroseCSS is a simple, responsive boilerplate to kickstart any prototype project.
 
 
 
